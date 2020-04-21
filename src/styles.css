@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+@import './assets/css/magnific-popup.css';
+@import './assets/css/all.min.css';
+@import '~bootstrap/dist/css/bootstrap.css';
+@import './assets/css/style.css';
+@import './assets/css/responsive.css';
+
+swiper>.swiper.s-wrapper .swiper-wrapper .swiper-slide {
+  overflow: hidden;
+}
